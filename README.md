@@ -9,6 +9,5 @@
 ![](./rabbit.gif) 
 
 
-![Snake animation](https://raw.githubusercontent.com/svyatskevich/svyatskevich/output/github-contribution-grid-snake-dark.svg)
 
 
