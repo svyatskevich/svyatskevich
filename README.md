@@ -3,11 +3,11 @@
 
 
 
-- 👩🏻‍💻 I'm a QA Engineer
-- ⚙️ Now, I'm progressing in the field of test automation [JavaScript]              
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/svetlana-yatskevich) [Telegram](https://t.me/qasvetlana) 
-![](./rabbit.gif) 
-
+- 👩🏻‍💻 I'm a QA Engineer.
+- ⚙️ Now, I'm progressing in the field of test automation [JavaScript].       
+  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/svetlana-yatskevich), [Telegram](https://t.me/qasvetlana), [Email](svetlana.yatskevich15@gmail.com)
+![](./rabbit.gif)   
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svyatskevich/svyatskevich/output/github-contribution-grid-snake-dark.svg">
