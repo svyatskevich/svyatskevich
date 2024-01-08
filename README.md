@@ -1,13 +1,21 @@
+<div id="header" align="center">
+  <img src= ./rabbit.gif width="150">
+</div>
 
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=FFB1C0&random=false&width=435&lines=Hi+there+:);My+name+is+Svetlana" alt="Typing SVG" /></a>
+<div id="contacts" align="center">
+ <a href="https://t.me/qasvetlana/">
+  <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+ <a href="https://www.linkedin.com/in/svetlana-yatskevich">
+  <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+ </div>
 
 
+### 👩🏻‍💻 About me: 
+- I'm a Manual QA Engineer.  
+- Now, I'm progressing in the field of test automation [JavaScript]. ⚙️                  
 
-- 👩🏻‍💻 I'm a QA Engineer.
-- ⚙️ Now, I'm progressing in the field of test automation [JavaScript].       
-  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/svetlana-yatskevich), [Telegram](https://t.me/qasvetlana), [Email](svetlana.yatskevich15@gmail.com)
-![](./rabbit.gif)   
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svyatskevich/svyatskevich/output/github-contribution-grid-snake-dark.svg">
