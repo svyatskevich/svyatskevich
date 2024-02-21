@@ -29,10 +29,7 @@
 ![REST](https://img.shields.io/badge/REST-%23593d88.svg?style=for-the-badge&logo=rest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### ☑️ freeCodeCamp - Solutions:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svyatskevich&repo=freeCodeCamp-JS-ES6)](https://github.com/svyatskevich/freeCodeCamp-JS-ES6)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svyatskevich&repo=freeCodeCamp-JS-Regular-Expressions)](https://github.com/svyatskevich/freeCodeCamp-JS-Regular-Expressions)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svyatskevich&repo=freeCodeCamp-JS-Debugging)](https://github.com/svyatskevich/freeCodeCamp-JS-Debugging)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=svyatskevich&repo=freeCodeCamp-JS-Basic-Data-Structures)](https://github.com/svyatskevich/freeCodeCamp-JS-Basic-Data-Structures)
 
 <picture>
