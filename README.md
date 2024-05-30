@@ -14,8 +14,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### 👩🏻‍💻 About me: 
-- 🔎 I'm a QA Engineer [ISTQB®].  
-- ⚙️ Now, I'm progressing in the field of test automation [JavaScript].
+- 🔎 I'm a JavaScript Automation QA Engineer [ISTQB®].  
 - ⚡ In my free time I solve challenges on codewars and freeCodeCamp.               
 
 ### 🛠️ My Stack:
